@@ -1,4 +1,4 @@
-# ProjectsRoadMap
+# GuessingGame
 Projects coded based on instructions of roadmap.sh
 
 Simple project, run it normally.
